@@ -1,4 +1,4 @@
-controlplane $ cat px-snap.yaml
+
 apiVersion: volumesnapshot.external-storage.k8s.io/v1
 kind: VolumeSnapshot
 metadata:
